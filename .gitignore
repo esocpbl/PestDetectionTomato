@@ -1,0 +1,8 @@
+# Ignore all dataset images
+Dataset/*/*/images/
+
+# Ignore all dataset labels
+Dataset/*/*/labels/
+
+# Ignore augmented dataset (images + labels)
+Dataset/augmented/
